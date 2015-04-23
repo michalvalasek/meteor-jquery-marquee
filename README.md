@@ -1,14 +1,12 @@
-meteor-jquery-marquee
-============
+# meteor-jquery-marquee
 
-Meteor packaging of (aamirafridi/jQuery.Marquee)[https://github.com/aamirafridi/jQuery.Marquee].
+Meteor packaging of [aamirafridi/jQuery.Marquee](https://github.com/aamirafridi/jQuery.Marquee).
 
 This package is MIT Licensed. Do whatever you like with it but any responsibility for doing so is your own.
 
 All rights to aamirafridi/jQuery.Marquee are with the original author.
 
-Usage
-============
+## Usage
 
 ###HTML:
 ```html
@@ -33,6 +31,7 @@ or use this if you want to start the plugin with no options but want to use data
 ```
 
 ###How to apply plugin:
+Do this in your template's `onRendered` block:
 ```javascript
 /**
  * Example of starting a plugin with options.
