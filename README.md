@@ -54,3 +54,7 @@ $('.marquee').marquee({
 ```
 
 See more in the (original documentation)[https://github.com/aamirafridi/jQuery.Marquee/blob/master/README.md].
+
+## Contributing
+
+Anyone is welcome to contribute. Fork, make your changes, and then submit a pull request.
