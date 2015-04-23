@@ -1,7 +1,7 @@
 meteor-jquery-marquee
 ============
 
-Meteor packaging of (aamirafridi/jQuery.Marquee)[https://github.com/aamirafridi/jQuery.Marquee].
+Meteor packaging of [aamirafridi/jQuery.Marquee](https://github.com/aamirafridi/jQuery.Marquee).
 
 This package is MIT Licensed. Do whatever you like with it but any responsibility for doing so is your own.
 
@@ -53,4 +53,4 @@ $('.marquee').marquee({
 });
 ```
 
-See more in the (original documentation)[https://github.com/aamirafridi/jQuery.Marquee/blob/master/README.md].
+See more in the [original documentation](https://github.com/aamirafridi/jQuery.Marquee/blob/master/README.md).
